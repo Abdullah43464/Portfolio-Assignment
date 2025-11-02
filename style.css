@@ -9,7 +9,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 10px 30px;
-    background-color: #f8f8f8;
+    background-color: #edecec;
 }
 
 .contanier {
@@ -186,5 +186,13 @@ a{
 }
 .pra{
     margin-top: 15px;
+}
+.Brooklyn{
+    text-align: center;
+    background-color: #9929fb;
+    height: 300px;
+    padding-top: 140px;
+    color: #ffffff;
+    font-size: 60px;
 }
 
